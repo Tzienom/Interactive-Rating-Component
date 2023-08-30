@@ -1,0 +1,9 @@
+@media(max-width: 261px) {
+    main, footer {
+        margin: 2rem 0 5rem;
+    }
+
+    .rating {
+        justify-content: center;
+    }
+}
